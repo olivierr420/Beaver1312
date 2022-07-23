@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...r
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...k6
+- 📫 How to reach me ...k6/
 
 <!---
 Beaver1312/Beaver1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olivierr420
-- 👀 I’m interested in ...r
+- 👀 I’m interested in ...ra
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...k6/e.

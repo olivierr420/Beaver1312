@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...ra
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on b
-- 📫 How to reach me ...k6/e.
+- 📫 How to reach me ...k6/e..
 vw
 <!--trtg
 olivierr420/olivierr420 is a ✨ special ✨ repository becauswe its `README.md` (this file) appears on your GitHub profile.

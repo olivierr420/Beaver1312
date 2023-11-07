@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olivierr420
 - 👀 I’m interested in ...ra
 - 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on b
+- 💞️ I’m looking to collaborate on be
 - 📫 How to reach me ...k6/e..
 vw
 <!--trtg
